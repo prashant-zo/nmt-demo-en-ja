@@ -1,8 +1,8 @@
 # Building a Neural Machine Translation Demo for English to Japanese
 
-This repository contains the code and results for a Neural Machine Translation (NMT) project that translates text from English to Japanese. This project was completed as part of the Sony Research India NMT/LLM Internship application challenge.
+This repository contains the code and results for a Neural Machine Translation (NMT) project that translates text from English to Japanese. 
 
-![mBART Translation Demo Screenshot](resources/translation_demo_screenshot.png)
+![01-mRAT](https://github.com/user-attachments/assets/100214ba-60b0-462a-91db-94708aa4dff8)
 
 ## 1. Introduction
 
@@ -25,7 +25,7 @@ This demo was built using freely available, state-of-the-art tools:
 The model demonstrated high-quality translation from English to Japanese. The code for this demo can be found in the `NMT_Demo_EN_JA.ipynb` notebook in this repository.
 
 Here is a screenshot of the code and its output:
-![Demo Screenshot](resources/translation_demo_screenshot.png)
+https://github.com/user-attachments/assets/7ff7a3d2-6c20-4b99-8914-0734228b71e4
 
 ## 4. Challenges & What I Learned
 
