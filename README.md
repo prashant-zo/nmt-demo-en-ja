@@ -2,6 +2,8 @@
 
 This repository contains the code and results for a Neural Machine Translation (NMT) project that translates text from English to Japanese. This project was completed as part of the Sony Research India NMT/LLM Internship application challenge.
 
+![01-mRAT](https://github.com/user-attachments/assets/100214ba-60b0-462a-91db-94708aa4dff8)
+
 ## 1. Introduction
 
 ### What is NMT?
